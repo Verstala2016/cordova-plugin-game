@@ -73,10 +73,6 @@
 		<dependency id="cordova-plugin-extras-android-support-library-v4" />
 
 		<dependency id="cordova-plugin-extras-google-play-services" url="https://github.com/cranberrygame/cordova-plugin-extras-google-play-services" />-->		
-		
-		<framework src="com.google.android.gms:play-services-games:+" />
-        <framework src="com.google.android.gms:play-services-plus:+" />
-		<framework src="com.google.android.gms:play-services-ads:+" />
     </platform>
 	
     <!-- ios -->
